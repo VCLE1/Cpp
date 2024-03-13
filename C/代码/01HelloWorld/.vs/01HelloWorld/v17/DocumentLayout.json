@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Huawei Share\\Github\\Cpp\\C\\\u4EE3\u7801\\01HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57EBD620-F123-445B-BB75-9AF06D90EB15}|01HelloWorld\\01HelloWorld.vcxproj|D:\\Huawei Share\\Github\\Cpp\\C\\\u4EE3\u7801\\01HelloWorld\\01HelloWorld\\01_hello_world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57EBD620-F123-445B-BB75-9AF06D90EB15}|01HelloWorld\\01HelloWorld.vcxproj|solutionrelative:01HelloWorld\\01_hello_world.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_hello_world.c",
+              "DocumentMoniker": "D:\\Huawei Share\\Github\\Cpp\\C\\\u4EE3\u7801\\01HelloWorld\\01HelloWorld\\01_hello_world.c",
+              "RelativeDocumentMoniker": "01HelloWorld\\01_hello_world.c",
+              "ToolTip": "D:\\Huawei Share\\Github\\Cpp\\C\\\u4EE3\u7801\\01HelloWorld\\01HelloWorld\\01_hello_world.c",
+              "RelativeToolTip": "01HelloWorld\\01_hello_world.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-12T11:23:39.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
